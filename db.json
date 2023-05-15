@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Beno",
+      "lastName": "Solomon",
+      "email": "beno@gmail.com",
+      "dob": "1997-07-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "TCS",
+      "experience": 4,
+      "package": 14,
+      "id": 1
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Zukerberg",
+      "email": "mark@gmail.com",
+      "dob": "2017-02-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Facebook",
+      "experience": 12,
+      "package": 234,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
